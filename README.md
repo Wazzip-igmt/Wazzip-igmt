@@ -33,14 +33,9 @@
 
 📌 Aqui você encontrará meus projetos, exercícios e experiências enquanto evoluo como desenvolvedor.
 
-## 📊 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazzip-igmt&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazzip-igmt&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🔥 Linguagens
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazzip-igmt&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazzip-igmt&layout=compact&theme=tokyonight)
 ---
 
 ### 💡 "Aprender programação é praticar, errar, corrigir e continuar."
