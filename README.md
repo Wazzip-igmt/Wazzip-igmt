@@ -1,43 +1,44 @@
 # 👋 Olá, eu sou Wazzip-igmt!
 
-💻 Desenvolvedor em formação, focado em aprender na prática e transformar ideias em projetos.
+💻 Desenvolvedor em formação  
+☕ Focado em Java  
+🌐 Desenvolvendo projetos com HTML e CSS  
+🚀 Aprendendo programação na prática
 
 ## 🛠️ Tecnologias
 
-<div>
-  <img src="https://skillicons.dev/icons?i=java,html,css" />
-</div>
-
-### ☕ Java
-- Programação orientada a objetos
-- Estruturas condicionais e de repetição
-- Scanner e entrada de dados
-- Desenvolvimento de aplicações
-- Interfaces gráficas com Java
-
-### 🌐 HTML & CSS
-- Estruturação de páginas
-- Estilização com CSS
-- Layouts e interfaces
-- Desenvolvimento de páginas web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github" />
+</p>
 
 ## 📚 Atualmente estudando
 
-- Java
-- Desenvolvimento Web
-- JavaFX
-- Programação Orientada a Objetos
-- Git e GitHub
+- ☕ Java
+- 🧩 Programação Orientada a Objetos
+- 🖥️ JavaFX
+- 🌐 Desenvolvimento Web
+- 🔧 Git e GitHub
 
 ## 🚀 Projetos
 
-📌 Aqui você encontrará meus projetos, exercícios e experiências enquanto evoluo como desenvolvedor.
+Aqui você encontrará meus projetos, exercícios e aplicações desenvolvidos durante minha jornada na programação.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazzip-igmt&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazzip-igmt&layout=compact&theme=tokyonight)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wazzip-igmt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</p>
+
+## 🔥 Linguagens
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wazzip-igmt&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, criando projetos e aprendendo novas tecnologias.
+
 ---
-
-### 💡 "Aprender programação é praticar, errar, corrigir e continuar."
 
 📍 Brasil
