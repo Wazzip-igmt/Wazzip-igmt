@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou Wazzip-igmt!
 
-<!--
-**Wazzip-igmt/Wazzip-igmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, focado em aprender na prática e transformar ideias em projetos.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://skillicons.dev/icons?i=java,html,css" />
+</div>
+
+### ☕ Java
+- Programação orientada a objetos
+- Estruturas condicionais e de repetição
+- Scanner e entrada de dados
+- Desenvolvimento de aplicações
+- Interfaces gráficas com Java
+
+### 🌐 HTML & CSS
+- Estruturação de páginas
+- Estilização com CSS
+- Layouts e interfaces
+- Desenvolvimento de páginas web
+
+## 📚 Atualmente estudando
+
+- Java
+- Desenvolvimento Web
+- JavaFX
+- Programação Orientada a Objetos
+- Git e GitHub
+
+## 🚀 Projetos
+
+📌 Aqui você encontrará meus projetos, exercícios e experiências enquanto evoluo como desenvolvedor.
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazzip-igmt&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazzip-igmt&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 💡 "Aprender programação é praticar, errar, corrigir e continuar."
+
+📍 Brasil
