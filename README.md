@@ -1,44 +1,39 @@
-# 👋 Olá, eu sou Wazzip-igmt!
+👋 Olá, eu sou Wazzip-igmt!
 
-💻 Desenvolvedor em formação  
-☕ Focado em Java  
-🌐 Desenvolvendo projetos com HTML e CSS  
-🚀 Aprendendo programação na prática
+💻 Desenvolvedor em formação
+☕ Java | 🌐 HTML | 🎨 CSS
+🚀 Aprendendo programação na prática e desenvolvendo meus próprios projetos.
 
-## 🛠️ Tecnologias
+🛠️ Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,git,github" />
-</p>
-
-## 📚 Atualmente estudando
+</p>📚 Atualmente estudando
 
 - ☕ Java
 - 🧩 Programação Orientada a Objetos
 - 🖥️ JavaFX
-- 🌐 Desenvolvimento Web
+- 🌐 HTML e CSS
 - 🔧 Git e GitHub
 
-## 🚀 Projetos
+🚀 Meus projetos
 
-Aqui você encontrará meus projetos, exercícios e aplicações desenvolvidos durante minha jornada na programação.
+Aqui você encontrará:
 
-## 📊 GitHub Stats
+- Projetos em Java
+- Aplicações com interfaces gráficas
+- Exercícios de programação
+- Projetos web com HTML e CSS
+- Experimentos e estudos de programação
+
+🎯 Meu objetivo
+
+Evoluir como desenvolvedor, criar projetos cada vez melhores e aprender novas tecnologias.
+
+💻 Linguagens que estou aprendendo
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wazzip-igmt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
-## 🔥 Linguagens
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wazzip-igmt&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-## 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, criando projetos e aprendendo novas tecnologias.
-
----
+  <img src="https://skillicons.dev/icons?i=java,html,css" />
+</p>---
 
 📍 Brasil
